@@ -47,7 +47,7 @@ nav {
 }
 
 .logo {
-  width: 150px;
+  width: 120px;
   border-radius: 10px;
 }
 
@@ -449,3 +449,4 @@ form .btn2 {
     font-size: 2rem;
   }
 }
+
